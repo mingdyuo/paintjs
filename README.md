@@ -16,6 +16,7 @@
 * A variety of color choices
 * Availability to toggle between paint and fill
 * Brush size can be changed with slider
+* Painted picture can be saved as png file
 
 
 
